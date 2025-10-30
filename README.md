@@ -1,23 +1,14 @@
-# 💻 Virtual Lab of Operating Systems
+# Virtual Lab of Operating Systems
+## Overview
 
-🔗 [Live Demo](https://vlabcomp.kjsieit.in/)
-
-## 🔍 Overview
-
-The **Virtual Lab of Operating Systems** is a user-friendly web-based platform designed to help students and faculty understand key OS concepts through interactive simulations. It covers essential algorithms like Process Scheduling, Banker's Algorithm, Disk Scheduling, and Process Synchronization.
-
-This lab presents each algorithm with theoretical explanations, numericals, flowcharts, code implementation, simulations, quizzes, and discussion forums to ensure comprehensive learning.
+An interactive e-learning platform designed to help students understand core Operating System algorithms through simulations of Process Scheduling, Disk Scheduling, and Banker’s Algorithm. Enables hands-on learning without time or location constraints.
 
 ---
 
-## 🧠 Features
+## Features
 
-- 🔐 **User Authentication**  
-  Login/Signup functionality with email verification.
-
-- 🧪 **Interactive Experiments**  
-  Each OS algorithm includes:
-
+- User Authentication
+- Interactive Experiments with each OS algorithm including:
   - Theory
   - Algorithm
   - Flowchart
@@ -26,31 +17,30 @@ This lab presents each algorithm with theoretical explanations, numericals, flow
   - Numericals with Calculator
   - Quiz
   - Feedback
+- Discussion Forum
+- Visualization Tools
+- Feedback Collection
 
-- 💬 **Discussion Forum**  
-  Users can ask questions and help each other solve doubts.
-
-- 📊 **Visualization Tools**  
-  Includes graph plotting and comparison charts for simulations.
-
-- 📥 **Feedback Collection**  
-  Individual experiment and overall virtual lab feedback forms are provided.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
-| Technology     | Purpose                            |
-| -------------- | ---------------------------------- |
-| **HTML/CSS**   | Frontend layout and design         |
-| **JavaScript** | Interactivity and some simulations |
-| **Java**       | Core simulation logic via JARs     |
-| **PHP**        | Backend logic and form handling    |
-| **MySQL**      | User and feedback data storage     |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=php,mysql" />
+  </a>
+</p>
+
+---
+## Check Website
+🔗 [Live Demo](https://vlabcomp.kjsieit.in/)
 
 ---
 
-## 🧪 Covered Algorithms
+## Covered Algorithms
 
 - **Process Scheduling**
 
@@ -70,27 +60,9 @@ This lab presents each algorithm with theoretical explanations, numericals, flow
 
 ---
 
-## 📈 Result Highlights
+## Result
 
 - All major OS algorithms simulated successfully.
 - Numerical examples and calculators integrated.
 - Quizzes with timers and scoring.
 - Feedback and discussion forum to support interactive learning.
-
----
-
-## 🚀 Learnings and Achievements
-
-- Developed cross-functional skills in Java, PHP, JS, and MySQL.
-- Understood OS algorithmic logic via real simulations.
-- Delivered a desktop-first educational platform with responsive UI.
-- Encouraged collaborative learning through forums and feedback.
-
----
-
-## 📚 References
-
-- http://vlabs.iitb.ac.in/vlab/
-- https://www.vlab.co.in/
-- https://youtube.com/c/akshaymarch7
-- https://www.w3schools.com/
