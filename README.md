@@ -24,7 +24,7 @@ An interactive e-learning platform designed to help students understand core Ope
 
 ---
 
-## Technologies Used
+## Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
