@@ -42,12 +42,12 @@ An interactive e-learning platform designed to help students understand core Ope
 
 ## Covered Algorithms
 
-- **Process Scheduling** -> FCFS, SJF, Round Robin, Preemptive/Non-preemptive Priority, SRTF
+- **Process Scheduling** -> FCFS, SJF, Round Robin, Preemptive/Non-preemptive Priority, SRTF.
 
-- **Disk Scheduling** -> FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+- **Disk Scheduling** -> FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK.
 
 - **Banker's Algorithm**
-- **Process Synchronization** -> Binary Semaphores, Counting Semaphores
+- **Process Synchronization** -> Binary Semaphores, Counting Semaphores.
 
 ---
 
